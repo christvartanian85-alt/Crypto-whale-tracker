@@ -1,0 +1,17 @@
+{
+  "cex_wallets": [
+    {"address": "DPqsobysNf5iA9w7zrQM8HLzCKZEDMkZsWbiidsAt1xo", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "6LY1JzAFVZsP2a2xKrtU6znQMQ5h4i7tocWdgrkZzkzF", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "44P5Ct5JkPz76Rs2K6juC65zXMpFRDrHatxcASJ4Dyra", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "MfDuWeqSHEqTFVYZ7LoexgAK9dxk7cy4DFJWjWMGVWa", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "8ECaGWdoJnvh6jECAjNWiWm7WvLPTgTsx3iEAxD5j6Vi", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "BUnN9ZbqKbpogDB7LwfPAaAfgaiWSjMTRwa23UMTxG9p", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "2snHHreXbpJ7UwZxPe37gnUNf7Wx7wv6UKDSR2JckKuS", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "Hv4Hkx5dgZtJMDwhoywhE6Wkh6dtbh6EFSpNYUT4VK5t", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "DQ5JWbJyWdJeyBxZuuyu36sUBud6L6wo3aN1QC1bRmsR", "exchange": "Unknown CEX", "chain": "solana"},
+    {"address": "Biw4eeaiYYYq6xSqEd7GzdwsrrndxA8mqdxfAtG3PTUU", "exchange": "Binance", "chain": "solana"},
+    {"address": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9", "exchange": "Binance", "chain": "solana"},
+    {"address": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ", "exchange": "MEXC", "chain": "solana"},
+    {"address": "3Ppu4Jnmv5ZxtBWpi6QrT1mrwr4X6TkJfCCj2HBpaAs2", "exchange": "Coinbase", "chain": "solana"}
+  ]
+}
