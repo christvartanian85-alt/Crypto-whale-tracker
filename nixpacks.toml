@@ -1,0 +1,5 @@
+[phases.build]
+cmds = ["pip install -r Requirements.txt"]
+
+[start]
+cmd = "python Main.py"
